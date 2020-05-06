@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Verum:jar">
+    <output-path>$PROJECT_DIR$/../RoboControl/plugins</output-path>
+    <root id="archive" name="Verum.jar">
+      <element id="module-output" name="Verum" />
+    </root>
+  </artifact>
+</component>
